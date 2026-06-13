@@ -1,0 +1,27 @@
+{
+  "name": "ReceiptBox Pro",
+  "short_name": "ReceiptBox",
+  "description": "Scan and organize receipts. Track spending.",
+  "start_url": "/receiptbox-pro/",
+  "scope": "/receiptbox-pro/",
+  "display": "standalone",
+  "background_color": "#0f0a00",
+  "theme_color": "#f59e0b",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/receiptbox-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/receiptbox-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
